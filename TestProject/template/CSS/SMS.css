@@ -1,0 +1,59 @@
+.field_sms{
+    height: 400px;
+/*    border: 1px solid;*/
+    box-shadow: 1px 1px 1px 1px,1px 1px 1px 1px inset; 
+    overflow: auto;
+}
+.field_sms_login{
+    height: 400px;
+/*    border: 1px solid;*/
+    box-shadow: 1px 1px 1px 1px,1px 1px 1px 1px inset; 
+    overflow: auto;
+}
+.SMS_HW{
+    height: 40px;
+    width: auto;
+    position: relative;
+    background: rgba(0, 10, 255, 0.71);
+    line-height: 40px;
+    border-bottom: 1px solid;
+}
+.SMS_HW_Login{
+    height: 40px;
+    width: auto;
+    position: relative;
+    background: rgba(39, 255, 0, 0.71);
+    line-height: 40px;
+    border-bottom: 1px solid;
+}
+.sms_text{
+    position:absolute;
+    display: inline;
+    left: 200px;
+}
+.XY_sms{
+    margin: 0 10% 0 10%;
+    width: 80%;
+}
+h1{
+    margin: 10px 25% 30px 30%;
+}
+.input_sms{
+    width: 240px;
+    height: 30px;    
+    margin-top: 5px;
+}
+.bottom{
+    width: 80px;
+    height: 30px;
+}
+/*
+.sms{
+    height: 400px;
+    width: 600px    ;
+    border: 2px solid;
+}
+*/
+#login_interlocutor{
+    display: inline-block;
+}

@@ -1,0 +1,49 @@
+.button{
+    width: 252px;
+    height: 40px;
+    margin: 2px;
+    background: rgba(211, 211, 211, 0.57);
+    box-shadow: 2px 2px 1px 1px inset; 
+    cursor:pointer;
+}
+.buttonXY{
+    margin-left: 42%;
+    margin-top:260px;
+}
+.text-auth{
+    font-size: 27px;
+}
+body{
+    background: #e2e2e2;
+}
+.input_signup{
+    margin: 2px;
+    width: 200px;
+    height: 22px;
+    border-radius: 5px;
+    position: relative;
+}
+.button_signup{
+/*    position: relative;*/
+    margin-left: 55px;
+    width: 100px;
+    height: 32px;
+    margin-top: 10px;
+    
+}
+.regis{
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.avtoriz{
+    margin-left: 30px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.div_signup{
+    position: absolute;
+/*    margin: 200px auto;*/
+    top:40%;
+    left:40%;
+}

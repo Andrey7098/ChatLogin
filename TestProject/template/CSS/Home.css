@@ -1,0 +1,59 @@
+.login{
+    margin-top: 10px;
+    margin-left: 150px;
+    display: inline-block;
+/*    float: left;*/
+}
+.exit{
+    position: absolute;
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    border-radius: 4px;
+    line-height: 30px;
+    border: 1px solid;
+    right: 150px;
+    top: 20px;
+    background: rgba(240, 217, 35, 0.87);
+}
+body{
+    background: #e2e2e2;
+}
+a{
+    text-decoration: none;
+}
+.header{
+    font-size: 20px;
+}
+#chat{
+    margin-top: 250px;
+    margin-left: 570px;
+}
+.block-users{
+    margin-top: 200px;
+    margin-left: 570px;
+    color: black;
+}
+.users{
+    font-size: 20px;
+    width: 250px;
+    height: 40px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 1px;
+    text-align: center;
+    line-height: 40px;
+}
+.chat{
+    background: rgba(240, 217, 35, 0.87);
+    border-radius: 5px;
+    display: inline-block;
+    width: 250px;
+    height: 60px;
+    border: 1px solid;
+    text-align: center;
+    line-height: 60px;
+    margin: 3px;
+/*    margin: 150px auto;*/
+}
